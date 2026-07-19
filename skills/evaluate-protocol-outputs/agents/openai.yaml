@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evaluate Protocol Outputs"
+  short_description: "Score scientific procedure predictions with reusable metrics"
+  default_prompt: "Use $evaluate-protocol-outputs to evaluate my procedural model prediction file."

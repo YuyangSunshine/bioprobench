@@ -171,6 +171,10 @@ Each script prints evaluation results such as:
 * Ordering metrics (e.g., Kendall’s Tau)
 * Parsing failure rates
 
+#### Portable Agent Skill
+
+We also provide a self-contained evaluation skill in [`skills/evaluate-protocol-outputs/`](./skills/evaluate-protocol-outputs/). It can be copied into other agent environments and used independently of this repository, while retaining a BioProBench-compatible profile.
+
 ---
 
 #### 🔬 Key Findings
@@ -238,5 +242,4 @@ The following are two important works of our group:
 ## 📧 Contact
 For dataset access or collaboration inquiries:
 sunshineliuyuyang@gmail.com
-
 

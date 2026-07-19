@@ -1,0 +1,5 @@
+nltk>=3.8,<4
+numpy>=1.24,<3
+rouge-score>=0.1.2,<0.2
+keybert>=0.8,<1
+sentence-transformers>=2.2,<6
